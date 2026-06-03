@@ -1,2 +1,2 @@
-# zoskyCube-archive
-Archive storage for zoskyCube PixelPower AI-generated images, served via GitHub Pages
+# zoskyCube-ppComics
+Archive storage for zoskyCube PixelPower comics V3-4-5 2025-6, served via GitHub Pages
